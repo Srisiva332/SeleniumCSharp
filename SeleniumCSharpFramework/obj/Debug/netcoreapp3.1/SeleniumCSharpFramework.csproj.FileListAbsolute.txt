@@ -1,0 +1,15 @@
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\bin\Debug\netcoreapp3.1\SeleniumCSharpFramework.exe
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\obj\Debug\netcoreapp3.1\SeleniumCSharpFramework.csprojAssemblyReference.cache
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\obj\Debug\netcoreapp3.1\SeleniumCSharpFramework.AssemblyInfoInputs.cache
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\obj\Debug\netcoreapp3.1\SeleniumCSharpFramework.AssemblyInfo.cs
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\bin\Debug\netcoreapp3.1\nunit.framework.dll
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\obj\Debug\netcoreapp3.1\SeleniumCSharpFramework.csproj.CopyComplete
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\bin\Debug\netcoreapp3.1\nunit.engine.dll
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\bin\Debug\netcoreapp3.1\WebDriver.dll
+G:\Siva\Automation\Visual Studio\Projects\SeleniumCSharpFramework\SeleniumCSharpFramework\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
